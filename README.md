@@ -16,6 +16,12 @@ AidChain lets NGOs upload a verified beneficiary list to a Soroban smart contrac
 
 ---
 
+## Project Description
+
+Wala pa po hehe
+
+---
+
 ## Suggested MVP Timeline
 
 | Day | Milestone |
@@ -227,9 +233,13 @@ stellar contract invoke \
 
 ---
 
-## Deployed Contract Link
+## Deployed Contract Details
 [1] https://stellar.expert/explorer/testnet/tx/3f40a3fc37af975ef476f022bc66f885eba3f798c8f8525996039348516aa764
 [2] https://lab.stellar.org/r/testnet/contract/CDEGGI5VJTU46VHEJS2WTPJHZQ3TKOHNS6CQ4YNWPWS3DSNCJ4LMTWQG
+
+![screenshot](path/to/image.png)
+
+## Future Scope
 
 ## License
 
